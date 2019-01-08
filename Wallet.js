@@ -31,4 +31,3 @@ constructor(money){
 
     
 }
-const wallet =  new Wallet(200)
